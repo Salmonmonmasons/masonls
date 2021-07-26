@@ -32,8 +32,6 @@ export class R_Panel extends Component{
                        />
                      </div>
                    </div>
-                   <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">T2</div>
-                   <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">T3</div>
                  </div>
                </Card.Text>
              </Card.Body>
