@@ -28,7 +28,7 @@ export class R_Panel extends Component{
                        <TwitterTimelineEmbed
                         sourceType="profile"
                         screenName="Mason99181010"
-                        options={{height: 600}}
+                        options={{height: 550}}
                        />
                      </div>
                    </div>
@@ -36,18 +36,6 @@ export class R_Panel extends Component{
                </Card.Text>
              </Card.Body>
            </Card>
-
-
-
-
-
-
-
-
-
-
-
-
            <br></br>
          </Col>
        </main>
